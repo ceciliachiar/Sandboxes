@@ -2,10 +2,15 @@
 
 This is a notebook containing the hands-on exercises for the e-learning course developed by QPlayLearn "Quantum Computing - the soft way".
 
-Here the details on the environment where the notebook was built
+Here the details on the environment where the notebook was built (qiskit version 1.3.2)
 
 ```bash
-conda create env sandboxes
+conda create env sandboxes python=3.9.21
+conda install juyter lab
+conda install notebook
+conda install numpy
+conda install matplotlib
+conda install qiskit
 
 ```
 
